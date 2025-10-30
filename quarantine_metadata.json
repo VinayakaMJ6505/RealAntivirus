@@ -1,0 +1,450 @@
+{
+  "20251026_182515_run_antivirus.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_antivirus.bat",
+    "original_filename": "run_antivirus.bat",
+    "quarantine_date": "2025-10-26T18:25:15.135509",
+    "file_hash": "a855670ab0fc2a16d86da795b2a3b03eea01f076ac4a859b776f47530fa01d74",
+    "file_size": 680,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182515_run_demo.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_demo.bat",
+    "original_filename": "run_demo.bat",
+    "quarantine_date": "2025-10-26T18:25:15.141543",
+    "file_hash": "7149f6aeac70d3812791aa55c1d3e7e54c43003ccdd57680e3f204dc626d02b4",
+    "file_size": 670,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182515_detector.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\detector.cpython-313.pyc",
+    "original_filename": "detector.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:25:15.155614",
+    "file_hash": "38b1a3e20b9377c19f125467cbc1bdce17df060c7e86e68d5170aebbf302cfe9",
+    "file_size": 10628,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182515_gui.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\gui.cpython-313.pyc",
+    "original_filename": "gui.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:25:15.168119",
+    "file_hash": "6cd88f1629e22f47fa0254f1bd82633c11abcea484075b0c61619eb997600940",
+    "file_size": 12357,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182515_main.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\main.cpython-313.pyc",
+    "original_filename": "main.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:25:15.184016",
+    "file_hash": "5b66c9b348aa6471550e48594345afefdba9e6883bce0d3f5f71d9e779755828",
+    "file_size": 15498,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182515_quarantine.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\quarantine.cpython-313.pyc",
+    "original_filename": "quarantine.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:25:15.198373",
+    "file_hash": "a48d169b5d7a978d5cbaa61e4f55280da1d3ba6c57aa9b6ccce4b6d5a07fa0c1",
+    "file_size": 10175,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182515_report.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\report.cpython-313.pyc",
+    "original_filename": "report.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:25:15.212269",
+    "file_hash": "9b23a2b539c45e2f9f932d14dae4390c5c0a039bd3da6a85d286a7e8066d7924",
+    "file_size": 8377,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182515_scanner.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\scanner.cpython-313.pyc",
+    "original_filename": "scanner.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:25:15.227157",
+    "file_hash": "0cc9ea98eadbb076dbadb2dd55bd55f94d79d147f962a203dcf9be04aed34210",
+    "file_size": 8784,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182747_run_antivirus.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_antivirus.bat",
+    "original_filename": "run_antivirus.bat",
+    "quarantine_date": "2025-10-26T18:27:47.173493",
+    "file_hash": "a855670ab0fc2a16d86da795b2a3b03eea01f076ac4a859b776f47530fa01d74",
+    "file_size": 680,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182747_run_demo.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_demo.bat",
+    "original_filename": "run_demo.bat",
+    "quarantine_date": "2025-10-26T18:27:47.188503",
+    "file_hash": "7149f6aeac70d3812791aa55c1d3e7e54c43003ccdd57680e3f204dc626d02b4",
+    "file_size": 670,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182747_detector.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\detector.cpython-313.pyc",
+    "original_filename": "detector.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:27:47.201768",
+    "file_hash": "38b1a3e20b9377c19f125467cbc1bdce17df060c7e86e68d5170aebbf302cfe9",
+    "file_size": 10628,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182747_gui.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\gui.cpython-313.pyc",
+    "original_filename": "gui.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:27:47.216014",
+    "file_hash": "6cd88f1629e22f47fa0254f1bd82633c11abcea484075b0c61619eb997600940",
+    "file_size": 12357,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182747_main.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\main.cpython-313.pyc",
+    "original_filename": "main.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:27:47.229645",
+    "file_hash": "5b66c9b348aa6471550e48594345afefdba9e6883bce0d3f5f71d9e779755828",
+    "file_size": 15498,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182747_quarantine.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\quarantine.cpython-313.pyc",
+    "original_filename": "quarantine.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:27:47.243179",
+    "file_hash": "a48d169b5d7a978d5cbaa61e4f55280da1d3ba6c57aa9b6ccce4b6d5a07fa0c1",
+    "file_size": 10175,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182747_report.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\report.cpython-313.pyc",
+    "original_filename": "report.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:27:47.258097",
+    "file_hash": "9b23a2b539c45e2f9f932d14dae4390c5c0a039bd3da6a85d286a7e8066d7924",
+    "file_size": 8377,
+    "reason": "Suspicious extension"
+  },
+  "20251026_182747_scanner.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\scanner.cpython-313.pyc",
+    "original_filename": "scanner.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:27:47.272845",
+    "file_hash": "0cc9ea98eadbb076dbadb2dd55bd55f94d79d147f962a203dcf9be04aed34210",
+    "file_size": 8784,
+    "reason": "Suspicious extension"
+  },
+  "20251026_183543_run_antivirus.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_antivirus.bat",
+    "original_filename": "run_antivirus.bat",
+    "quarantine_date": "2025-10-26T18:35:43.163561",
+    "file_hash": "a855670ab0fc2a16d86da795b2a3b03eea01f076ac4a859b776f47530fa01d74",
+    "file_size": 680,
+    "reason": "Suspicious extension"
+  },
+  "20251026_183543_run_demo.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_demo.bat",
+    "original_filename": "run_demo.bat",
+    "quarantine_date": "2025-10-26T18:35:43.167456",
+    "file_hash": "7149f6aeac70d3812791aa55c1d3e7e54c43003ccdd57680e3f204dc626d02b4",
+    "file_size": 670,
+    "reason": "Suspicious extension"
+  },
+  "20251026_183543_detector.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\detector.cpython-313.pyc",
+    "original_filename": "detector.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:35:43.182174",
+    "file_hash": "38b1a3e20b9377c19f125467cbc1bdce17df060c7e86e68d5170aebbf302cfe9",
+    "file_size": 10628,
+    "reason": "Suspicious extension"
+  },
+  "20251026_183543_gui.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\gui.cpython-313.pyc",
+    "original_filename": "gui.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:35:43.194513",
+    "file_hash": "6cd88f1629e22f47fa0254f1bd82633c11abcea484075b0c61619eb997600940",
+    "file_size": 12357,
+    "reason": "Suspicious extension"
+  },
+  "20251026_183543_main.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\main.cpython-313.pyc",
+    "original_filename": "main.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:35:43.208208",
+    "file_hash": "5b66c9b348aa6471550e48594345afefdba9e6883bce0d3f5f71d9e779755828",
+    "file_size": 15498,
+    "reason": "Suspicious extension"
+  },
+  "20251026_183543_quarantine.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\quarantine.cpython-313.pyc",
+    "original_filename": "quarantine.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:35:43.221603",
+    "file_hash": "a48d169b5d7a978d5cbaa61e4f55280da1d3ba6c57aa9b6ccce4b6d5a07fa0c1",
+    "file_size": 10175,
+    "reason": "Suspicious extension"
+  },
+  "20251026_183543_report.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\report.cpython-313.pyc",
+    "original_filename": "report.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:35:43.235469",
+    "file_hash": "9b23a2b539c45e2f9f932d14dae4390c5c0a039bd3da6a85d286a7e8066d7924",
+    "file_size": 8377,
+    "reason": "Suspicious extension"
+  },
+  "20251026_183543_scanner.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\scanner.cpython-313.pyc",
+    "original_filename": "scanner.cpython-313.pyc",
+    "quarantine_date": "2025-10-26T18:35:43.250046",
+    "file_hash": "0cc9ea98eadbb076dbadb2dd55bd55f94d79d147f962a203dcf9be04aed34210",
+    "file_size": 8784,
+    "reason": "Suspicious extension"
+  },
+  "20251027_154507_run_antivirus.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_antivirus.bat",
+    "original_filename": "run_antivirus.bat",
+    "quarantine_date": "2025-10-27T15:45:07.204875",
+    "file_hash": "a855670ab0fc2a16d86da795b2a3b03eea01f076ac4a859b776f47530fa01d74",
+    "file_size": 680,
+    "reason": "Suspicious extension"
+  },
+  "20251027_154507_run_demo.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_demo.bat",
+    "original_filename": "run_demo.bat",
+    "quarantine_date": "2025-10-27T15:45:07.221256",
+    "file_hash": "7149f6aeac70d3812791aa55c1d3e7e54c43003ccdd57680e3f204dc626d02b4",
+    "file_size": 670,
+    "reason": "Suspicious extension"
+  },
+  "20251027_154507_detector.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\detector.cpython-313.pyc",
+    "original_filename": "detector.cpython-313.pyc",
+    "quarantine_date": "2025-10-27T15:45:07.234029",
+    "file_hash": "38b1a3e20b9377c19f125467cbc1bdce17df060c7e86e68d5170aebbf302cfe9",
+    "file_size": 10628,
+    "reason": "Suspicious extension"
+  },
+  "20251027_154507_gui.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\gui.cpython-313.pyc",
+    "original_filename": "gui.cpython-313.pyc",
+    "quarantine_date": "2025-10-27T15:45:07.247456",
+    "file_hash": "6cd88f1629e22f47fa0254f1bd82633c11abcea484075b0c61619eb997600940",
+    "file_size": 12357,
+    "reason": "Suspicious extension"
+  },
+  "20251027_154507_main.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\main.cpython-313.pyc",
+    "original_filename": "main.cpython-313.pyc",
+    "quarantine_date": "2025-10-27T15:45:07.261682",
+    "file_hash": "5b66c9b348aa6471550e48594345afefdba9e6883bce0d3f5f71d9e779755828",
+    "file_size": 15498,
+    "reason": "Suspicious extension"
+  },
+  "20251027_154507_quarantine.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\quarantine.cpython-313.pyc",
+    "original_filename": "quarantine.cpython-313.pyc",
+    "quarantine_date": "2025-10-27T15:45:07.276210",
+    "file_hash": "a48d169b5d7a978d5cbaa61e4f55280da1d3ba6c57aa9b6ccce4b6d5a07fa0c1",
+    "file_size": 10175,
+    "reason": "Suspicious extension"
+  },
+  "20251027_154507_report.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\report.cpython-313.pyc",
+    "original_filename": "report.cpython-313.pyc",
+    "quarantine_date": "2025-10-27T15:45:07.290034",
+    "file_hash": "9b23a2b539c45e2f9f932d14dae4390c5c0a039bd3da6a85d286a7e8066d7924",
+    "file_size": 8377,
+    "reason": "Suspicious extension"
+  },
+  "20251027_154507_scanner.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\scanner.cpython-313.pyc",
+    "original_filename": "scanner.cpython-313.pyc",
+    "quarantine_date": "2025-10-27T15:45:07.303556",
+    "file_hash": "0cc9ea98eadbb076dbadb2dd55bd55f94d79d147f962a203dcf9be04aed34210",
+    "file_size": 8784,
+    "reason": "Suspicious extension"
+  },
+  "20251028_184543_run_antivirus.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_antivirus.bat",
+    "original_filename": "run_antivirus.bat",
+    "quarantine_date": "2025-10-28T18:45:43.943671",
+    "file_hash": "a855670ab0fc2a16d86da795b2a3b03eea01f076ac4a859b776f47530fa01d74",
+    "file_size": 680,
+    "reason": "Suspicious extension"
+  },
+  "20251028_184543_run_demo.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_demo.bat",
+    "original_filename": "run_demo.bat",
+    "quarantine_date": "2025-10-28T18:45:43.949807",
+    "file_hash": "7149f6aeac70d3812791aa55c1d3e7e54c43003ccdd57680e3f204dc626d02b4",
+    "file_size": 670,
+    "reason": "Suspicious extension"
+  },
+  "20251028_184543_detector.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\detector.cpython-313.pyc",
+    "original_filename": "detector.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T18:45:43.964491",
+    "file_hash": "38b1a3e20b9377c19f125467cbc1bdce17df060c7e86e68d5170aebbf302cfe9",
+    "file_size": 10628,
+    "reason": "Suspicious extension"
+  },
+  "20251028_184543_gui.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\gui.cpython-313.pyc",
+    "original_filename": "gui.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T18:45:43.977530",
+    "file_hash": "6cd88f1629e22f47fa0254f1bd82633c11abcea484075b0c61619eb997600940",
+    "file_size": 12357,
+    "reason": "Suspicious extension"
+  },
+  "20251028_184543_main.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\main.cpython-313.pyc",
+    "original_filename": "main.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T18:45:43.995155",
+    "file_hash": "5b66c9b348aa6471550e48594345afefdba9e6883bce0d3f5f71d9e779755828",
+    "file_size": 15498,
+    "reason": "Suspicious extension"
+  },
+  "20251028_184544_quarantine.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\quarantine.cpython-313.pyc",
+    "original_filename": "quarantine.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T18:45:44.012747",
+    "file_hash": "a48d169b5d7a978d5cbaa61e4f55280da1d3ba6c57aa9b6ccce4b6d5a07fa0c1",
+    "file_size": 10175,
+    "reason": "Suspicious extension"
+  },
+  "20251028_184544_report.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\report.cpython-313.pyc",
+    "original_filename": "report.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T18:45:44.032531",
+    "file_hash": "9b23a2b539c45e2f9f932d14dae4390c5c0a039bd3da6a85d286a7e8066d7924",
+    "file_size": 8377,
+    "reason": "Suspicious extension"
+  },
+  "20251028_184544_scanner.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\scanner.cpython-313.pyc",
+    "original_filename": "scanner.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T18:45:44.050411",
+    "file_hash": "0cc9ea98eadbb076dbadb2dd55bd55f94d79d147f962a203dcf9be04aed34210",
+    "file_size": 8784,
+    "reason": "Suspicious extension"
+  },
+  "20251028_215600_run_antivirus.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_antivirus.bat",
+    "original_filename": "run_antivirus.bat",
+    "quarantine_date": "2025-10-28T21:56:00.743929",
+    "file_hash": "a855670ab0fc2a16d86da795b2a3b03eea01f076ac4a859b776f47530fa01d74",
+    "file_size": 680,
+    "reason": "Suspicious extension"
+  },
+  "20251028_215600_run_demo.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_demo.bat",
+    "original_filename": "run_demo.bat",
+    "quarantine_date": "2025-10-28T21:56:00.750920",
+    "file_hash": "7149f6aeac70d3812791aa55c1d3e7e54c43003ccdd57680e3f204dc626d02b4",
+    "file_size": 670,
+    "reason": "Suspicious extension"
+  },
+  "20251028_215600_detector.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\detector.cpython-313.pyc",
+    "original_filename": "detector.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T21:56:00.766397",
+    "file_hash": "38b1a3e20b9377c19f125467cbc1bdce17df060c7e86e68d5170aebbf302cfe9",
+    "file_size": 10628,
+    "reason": "Suspicious extension"
+  },
+  "20251028_215600_gui.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\gui.cpython-313.pyc",
+    "original_filename": "gui.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T21:56:00.781174",
+    "file_hash": "6cd88f1629e22f47fa0254f1bd82633c11abcea484075b0c61619eb997600940",
+    "file_size": 12357,
+    "reason": "Suspicious extension"
+  },
+  "20251028_215600_main.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\main.cpython-313.pyc",
+    "original_filename": "main.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T21:56:00.794851",
+    "file_hash": "5b66c9b348aa6471550e48594345afefdba9e6883bce0d3f5f71d9e779755828",
+    "file_size": 15498,
+    "reason": "Suspicious extension"
+  },
+  "20251028_215600_quarantine.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\quarantine.cpython-313.pyc",
+    "original_filename": "quarantine.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T21:56:00.809437",
+    "file_hash": "a48d169b5d7a978d5cbaa61e4f55280da1d3ba6c57aa9b6ccce4b6d5a07fa0c1",
+    "file_size": 10175,
+    "reason": "Suspicious extension"
+  },
+  "20251028_215600_report.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\report.cpython-313.pyc",
+    "original_filename": "report.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T21:56:00.824435",
+    "file_hash": "9b23a2b539c45e2f9f932d14dae4390c5c0a039bd3da6a85d286a7e8066d7924",
+    "file_size": 8377,
+    "reason": "Suspicious extension"
+  },
+  "20251028_215600_scanner.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\scanner.cpython-313.pyc",
+    "original_filename": "scanner.cpython-313.pyc",
+    "quarantine_date": "2025-10-28T21:56:00.841657",
+    "file_hash": "0cc9ea98eadbb076dbadb2dd55bd55f94d79d147f962a203dcf9be04aed34210",
+    "file_size": 8784,
+    "reason": "Suspicious extension"
+  },
+  "20251030_090745_run_antivirus.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_antivirus.bat",
+    "original_filename": "run_antivirus.bat",
+    "quarantine_date": "2025-10-30T09:07:45.525458",
+    "file_hash": "a855670ab0fc2a16d86da795b2a3b03eea01f076ac4a859b776f47530fa01d74",
+    "file_size": 680,
+    "reason": "Suspicious extension"
+  },
+  "20251030_090745_run_demo.bat": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\run_demo.bat",
+    "original_filename": "run_demo.bat",
+    "quarantine_date": "2025-10-30T09:07:45.534018",
+    "file_hash": "7149f6aeac70d3812791aa55c1d3e7e54c43003ccdd57680e3f204dc626d02b4",
+    "file_size": 670,
+    "reason": "Suspicious extension"
+  },
+  "20251030_090745_detector.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\detector.cpython-313.pyc",
+    "original_filename": "detector.cpython-313.pyc",
+    "quarantine_date": "2025-10-30T09:07:45.548991",
+    "file_hash": "38b1a3e20b9377c19f125467cbc1bdce17df060c7e86e68d5170aebbf302cfe9",
+    "file_size": 10628,
+    "reason": "Suspicious extension"
+  },
+  "20251030_090745_gui.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\gui.cpython-313.pyc",
+    "original_filename": "gui.cpython-313.pyc",
+    "quarantine_date": "2025-10-30T09:07:45.562523",
+    "file_hash": "6cd88f1629e22f47fa0254f1bd82633c11abcea484075b0c61619eb997600940",
+    "file_size": 12357,
+    "reason": "Suspicious extension"
+  },
+  "20251030_090745_main.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\main.cpython-313.pyc",
+    "original_filename": "main.cpython-313.pyc",
+    "quarantine_date": "2025-10-30T09:07:45.577129",
+    "file_hash": "5b66c9b348aa6471550e48594345afefdba9e6883bce0d3f5f71d9e779755828",
+    "file_size": 15498,
+    "reason": "Suspicious extension"
+  },
+  "20251030_090745_quarantine.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\quarantine.cpython-313.pyc",
+    "original_filename": "quarantine.cpython-313.pyc",
+    "quarantine_date": "2025-10-30T09:07:45.590958",
+    "file_hash": "a48d169b5d7a978d5cbaa61e4f55280da1d3ba6c57aa9b6ccce4b6d5a07fa0c1",
+    "file_size": 10175,
+    "reason": "Suspicious extension"
+  },
+  "20251030_090745_report.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\report.cpython-313.pyc",
+    "original_filename": "report.cpython-313.pyc",
+    "quarantine_date": "2025-10-30T09:07:45.606099",
+    "file_hash": "9b23a2b539c45e2f9f932d14dae4390c5c0a039bd3da6a85d286a7e8066d7924",
+    "file_size": 8377,
+    "reason": "Suspicious extension"
+  },
+  "20251030_090745_scanner.cpython-313.pyc": {
+    "original_path": "A:/BCA Last year Project/Anti-Virus\\src\\__pycache__\\scanner.cpython-313.pyc",
+    "original_filename": "scanner.cpython-313.pyc",
+    "quarantine_date": "2025-10-30T09:07:45.621282",
+    "file_hash": "0cc9ea98eadbb076dbadb2dd55bd55f94d79d147f962a203dcf9be04aed34210",
+    "file_size": 8784,
+    "reason": "Suspicious extension"
+  }
+}
