@@ -157,27 +157,12 @@ Use the Quarantine view:
 
 ⚠️ The scanner uses heuristics (extensions, hashing) for demonstration purposes. It is not a replacement for professional antivirus software.
 
-## License
 
-This is a demonstration/educational tool. Use at your own risk.
-
-## Version History
-
-### Latest (Current)
+### Features
 - ✨ New sidebar + dashboard UI
 - 🌑/☀️ Live Dark/Light theme toggle in the top bar
 - 🧭 Dashboard quick actions; status badge and recent activity
 - 📦 Quarantine actions: Restore/Delete selected; metadata-driven
 - 📝 Reports: Filter + Export log file
 - 🧭 Polished styling, icons, and layouts
-
-### Previous Features
-- Directory scanning with progress tracking
-- SHA-256 file hashing
-- Quarantine system with metadata
-- Comprehensive logging
-
-## Author
-
-Created as a demonstration of file integrity scanning and quarantine systems with a focus on user experience and modern UI design.
 
